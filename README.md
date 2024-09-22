@@ -32,7 +32,7 @@
 
 ### Password Protection
 
-1. Go to the `config.js` file and set `challenge` to **true**. Then, set the environment variable as follows:
+y1. Go to the `config.js` file and set `challenge` to **true**. Then, set the environment variable as follows:
 2. For PNPM: Run either `config=true pnpm start` or `$env:config=true; pnpm start`, depending on your server.
 3. For Bun: Run either `config=true bun start` or `$env:config=true; bun start` if you prefer Bun.
 4. For NPM: Run either `config=true npm start` or `$env:config=true; npm start` if you prefer NPM.
